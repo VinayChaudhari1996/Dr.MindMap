@@ -200,7 +200,7 @@ Contributions welcome! Please follow these steps:
 3. Submit a pull request
 
 ## 📄 License
-[Specify your license here]
+MIT
 
 ## 🙏 Acknowledgments
 - Streamlit development team
